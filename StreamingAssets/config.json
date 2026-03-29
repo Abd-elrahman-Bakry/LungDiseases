@@ -1,0 +1,8 @@
+{
+  "organName": "Heart",
+  "color": "red",
+  "isVital": false,
+  "bpm": 60,
+  "disease1": true,
+  "disease2": false
+}
